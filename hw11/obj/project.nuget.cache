@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "gTeQ8ke+YhQFqghZ+ER0j6E4xBHQJTJyuZ095ATkDz0YpPgKg78/33QjT8grwHGX4X5mQnRhA8xYXPPg/IMYOw==",
+  "dgSpecHash": "BAG+T9xVyWYuZhMN318CxinKzLke3xfi9odpnIhe8Ke7keNuzBETKehzKXn7EeOOGb3wVhRj24Rwvaas1CQzRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pc\\Downloads\\איילה לא למחוק\\hw11\\hw11\\hw11.csproj",
+  "projectFilePath": "Y:\\Groups\\Group_3\\רביץ אילה\\hw11\\hw11\\hw11.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\pc\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
+    "C:\\Users\\hitmachut\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
   ],
   "logs": []
 }

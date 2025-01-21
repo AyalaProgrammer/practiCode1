@@ -1,0 +1,5 @@
+Y:\Groups\Group_3\רביץ אילה\hw11\hw11\obj\Debug\net6.0\hw11.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_3\רביץ אילה\hw11\hw11\obj\Debug\net6.0\hw11.AssemblyInfoInputs.cache
+Y:\Groups\Group_3\רביץ אילה\hw11\hw11\obj\Debug\net6.0\hw11.AssemblyInfo.cs
+Y:\Groups\Group_3\רביץ אילה\hw11\hw11\obj\Debug\net6.0\hw11.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_3\רביץ אילה\hw11\hw11\obj\Debug\net6.0\hw11.sourcelink.json
